@@ -5,6 +5,7 @@ Written in python2.7
 You need to install python-qrtools to use this script.
 
 =================BUGS==================
+
 It might give you an error saying something like:
 
 raw = toString( 
@@ -22,4 +23,5 @@ throw a weird looking error
 TO FIX IT: 
 
 Make sure that the file name exists
+
 =================BUGS==================
