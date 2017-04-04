@@ -3,6 +3,7 @@ This script goes through the whole directory and prints the code of all the qrco
 This script is easy to edit 
 Written in python2.7
 You need to install python-qrtools to use this script.
+You can also use a tool called zbarimg from the command line
 
 =================BUGS==================
 
